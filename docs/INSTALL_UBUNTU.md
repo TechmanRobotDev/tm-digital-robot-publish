@@ -5,7 +5,7 @@
 ```bash
 mkdir -p ~/projects
 cd ~/projects
-git clone https://github.com/tm-vision/tm-digital-robot-publish
+git clone https://github.com/TechmanRobotDev/tm-digital-robot-publish
 cd ~/projects/tm-digital-robot-publish
 ```
 
